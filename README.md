@@ -4,7 +4,7 @@
 Explore effective titling strategies in our [guide](https://www.nature.com/articles/s41562-021-01152-2).
 
 ## Project Information
-- **Author**: [First Name] [Last Name], Majoring in [Major], Class of [Year], Duke Kunshan University
+- **Author**: Jiaqi Yao, Majoring in Economics, Class of 2025, Duke Kunshan University
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: This is a submission for the Final Project in [COMSCI/ECON 206 Computational Microeconomics](https://ms.pubpub.org/), Spring 2024 Term (Seven Week - Fourth), taught by Professor Luyao Zhang at Duke Kunshan University.
 - **Acknowledgements**: [Guidelines for Acknowledgements](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
