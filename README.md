@@ -14,6 +14,17 @@ Explore effective titling strategies in our [guide](https://www.nature.com/artic
 
 ![MINDMAP](Graph/MINDMAP.png)
 
+*Figure 1: Mind map of the Final repository*
+
+This repository includes three parts, regarding some thoughts and ideas I generated through each week’s learning content and a final research proposal that combined the phrases and technology I learned in this course with my innovative idea on exploring the new outcome and solutions of traditional games theory, as well as how it can be applied to current society. 
+Under the proposal folder, the Latex folder includes the downloaded zip file of my work on Overleaf (a collaborative LaTeX editor for writing scientific documents.) The Colab folder includes my designed coding for realizing the game solution I proposed, with certain outcomes.
+
+As shown in Figure 1, the CSEcon folder shows my discussions during the first week. including considering how can economics be combined with computer science, how this interdisciplinary approach can benefit in the future, and what aspects of this approach should we take into consideration. The discussion starts with an introduction and thoughts on Nobel and Turin winners and ends with future steps that can be taken to achieve those goals.
+
+The Advance_CSECON folder covers my discussions during the second week, including personal experience with two generative tools on designing and playing the game theory, including the limitations I found about the tools and my proposed solutions. In addition, there were also some summaries, critiques, and thoughts on a paper that we learned during a guest lecture at DKU, and how those problems reminded us of some unsolved questions and restrictions in this interdisciplinary approach. (see figure 1)
+
+Besides the PS1 part shown in the repository, we also had another assignment, PS2, which also contributed a lot to this final project. As shown in Figure 1, the usage of Overleaf and our original idea for this proposal was taught and generated through the process of completing PS2. The whole learning content of this course is continuous and all parts help me better prepare for this final assignment.
+
 
 Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
 
