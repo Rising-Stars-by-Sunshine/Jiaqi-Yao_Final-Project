@@ -7,9 +7,7 @@ Explore effective titling strategies in our [guide](https://www.nature.com/artic
 - **Author**: Jiaqi Yao, Majoring in Economics, Class of 2025, Duke Kunshan University
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: This is a submission for the Final Project in [COMSCI/ECON 206 Computational Microeconomics](https://ms.pubpub.org/), Spring 2024 Term (Seven Week - Fourth), taught by Professor Luyao Zhang at Duke Kunshan University.
-- **Acknowledgements**: 
-
-I would like to express my deepest gratitude to Professor Luyao Zhang, the esteemed instructor of CS206, for her invaluable guidance and expert knowledge which immensely enriched my learning experience. This academic endeavor would not have been possible without her thoughtful insights and persistent encouragement. 
+- **Acknowledgements**: I would like to express my deepest gratitude to Professor Luyao Zhang, the esteemed instructor of CS206, for her invaluable guidance and expert knowledge which immensely enriched my learning experience. This academic endeavor would not have been possible without her thoughtful insights and persistent encouragement. 
 
 I am also immensely grateful to my classmates for their thoughtful discussions and the collaborative spirit they maintained throughout the course, providing both academic support and intellectual growth. 
 
@@ -34,7 +32,8 @@ Besides the PS1 part shown in the repository, we also had another assignment, PS
 Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
 
 ## Table of Contents
-Could you provide a table of content with hyperlink to all the parts? 
+- [CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiaqi-yao_Final-Project/tree/main/CSEcon)
+- [Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiaqi-yao_Final-Project/tree/main/Advance_CSECON%20)
 
 ## More About the Author
 ![Computational Economics Avatar](Graph/Jiaqi.webp)
