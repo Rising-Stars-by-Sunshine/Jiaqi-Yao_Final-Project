@@ -33,7 +33,7 @@ Please provide an introduction to the content of this GitHub repository, bearing
 
 ## Table of Contents
 - [CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiaqi-yao_Final-Project/tree/main/CSEcon)
-- [Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiaqi-yao_Final-Project/tree/main/Advance_CSECON%20)
+- [Advance_CSEcon](https://github.com/Rising-Stars-by-Sunshine/Jiaqi-yao_Final-Project/tree/main/Advance_CSECON)
 
 ## More About the Author
 ![Computational Economics Avatar](Graph/Jiaqi.webp)
