@@ -32,7 +32,7 @@ Please provide an introduction to the content of this GitHub repository, bearing
 Could you provide a table of content with hyperlink to all the parts? 
 
 ## More About the Author
-![Headshot](url-to-headshot-image)
+![Computational Economics Avatar](Graphs/Jiaqi.webp)
 - **Self-Introduction**: A brief biography highlighting academic and personal interests.
 - **Final Reflections**: 
   - **Intellectual Growth**: Insights and knowledge acquired.
