@@ -7,8 +7,13 @@ Explore effective titling strategies in our [guide](https://www.nature.com/artic
 - **Author**: Jiaqi Yao, Majoring in Economics, Class of 2025, Duke Kunshan University
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: This is a submission for the Final Project in [COMSCI/ECON 206 Computational Microeconomics](https://ms.pubpub.org/), Spring 2024 Term (Seven Week - Fourth), taught by Professor Luyao Zhang at Duke Kunshan University.
-- **Acknowledgements**: [Guidelines for Acknowledgements](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-  [Note: When writing acknowledgments for a research paper, please start by thanking your instructor and supervisor for their guidance. Then, thank your colleagues for their support and your classmates for their engaging discussions and input. Conclude with a note of appreciation for friends and family who encouraged you throughout your research endeavor. This sequence ensures gratitude is shown to professional and personal supporters who have contributed to your academic journey.]
+- **Acknowledgements**: 
+
+I would like to express my deepest gratitude to Professor Luyao Zhang, the esteemed instructor of CS206, for her invaluable guidance and expert knowledge which immensely enriched my learning experience. This academic endeavor would not have been possible without her thoughtful insights and persistent encouragement. 
+
+I am also immensely grateful to my classmates for their thoughtful discussions and the collaborative spirit they maintained throughout the course, providing both academic support and intellectual growth. 
+
+Additionally, I extend my sincere thanks to my parents and friends, whose unwavering support and encouragement have been my constant source of motivation. Their belief in my capabilities has been a tremendous force throughout my studies.
 
 ### Introduction to the GitHub Repository
 
