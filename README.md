@@ -44,10 +44,11 @@ Hi, I'm Jiaqi Yao, a Junior from Shanghai, who majored in Economics at DKU. I am
 - **[GAI]:** I have a strong interest on how people train machines and come up with machine learning mechanisms. Personally, I believe those are significant tools to reach empirical researches with advanced technology and larger datasets.
 - **[Game theory]:** Current game theories are limited to bounded rationality and imperfect information problems that occur in reality, and better interactions with AI may be a solution to this phenomenon.
 
-- **Contact Me**
+-**Contact Me**
+
 - **Email:** jy336@duke.edu
 
-- **Final Reflections**: 
+-**Final Reflections**: 
   - **Intellectual Growth**: Throughout this course, I have learned to use several new tools such as Otree and Colab with MARL, applying them to explore and develop concepts in game theory. Traditionally, economic and social research required a significant amount of time and effort to conduct both quantitative and qualitative analyses of individual behaviors. The categorization and regulation tasks were manually executed, which often resulted in more time spent and less accuracy achieved. Now, with the aid of machine learning, we are able to handle larger datasets, achieve higher accuracy in generating agent behaviors, and even simulate these behaviors.
 For me, the magic of interdisciplinary research lies in our ability to utilize key elements from different fields as efficient tools to address the questions we face. The intersection of two disciplines not only provides innovative ways to solve problems but also introduces additional thoughts and elements that can be considered when addressing traditional questions within a single discipline.
 
