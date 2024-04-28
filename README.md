@@ -1,7 +1,6 @@
 # Jiaqi-Yao_Final-Project
 
-## How to Choose a Good Title? 
-Explore effective titling strategies in our [guide](https://www.nature.com/articles/s41562-021-01152-2).
+## When blockchain meets game theory ———— A mechanism that eliminates necessity of trust in cooperations
 
 ## Project Information
 - **Author**: Jiaqi Yao, Majoring in Economics, Class of 2025, Duke Kunshan University
