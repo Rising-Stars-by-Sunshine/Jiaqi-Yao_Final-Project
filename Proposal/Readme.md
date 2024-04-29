@@ -1,5 +1,7 @@
 ![poster](Graph/poster.png)
 
+###Shared view of overleaf: https://www.overleaf.com/read/mbqjhbvrtcxm#a03e31
+
 ### 1. Introduction and Background
 
 The existing literature in game theory has primarily focused on analyzing strategic interactions between rational agents within well-defined and controlled environments. However, in the digital economy, where complex systems involve both human and AI agents, traditional game theory may not adequately capture the dynamics of decision-making, especially in scenarios involving trust, cooperation, and uncertainty. This gap in the literature is particularly pressing given the increasing integration of AI technologies into various aspects of our lives, raising questions about how humans and AI agents interact, cooperate, and compete within digital ecosystems.
