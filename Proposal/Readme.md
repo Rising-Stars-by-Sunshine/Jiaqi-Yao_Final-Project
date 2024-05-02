@@ -1,4 +1,4 @@
-![poster](Graph/poster.png)
+![poster](Graph/poster1.png)
 
 ###Shared view of overleaf: https://www.overleaf.com/read/mbqjhbvrtcxm#a03e31
 
